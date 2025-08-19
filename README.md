@@ -5,7 +5,7 @@ This project allows users to add, edit, delete, filter, and search bugs, as well
 
 ---
 
-Features
+## Features
 - Add new bugs with title, description, priority, and status
 - Edit or delete existing bugs
 - Filter bugs by status (Open / Resolved) and priority (Low / Medium / High)
@@ -15,7 +15,7 @@ Features
 
 ---
 
-Tech Stack
+## Tech Stack
 - React
 - JavaScript
 - HTML
@@ -23,29 +23,21 @@ Tech Stack
 
 ---
 
-Project Setup 
+## Project Setup
 
-```bash
-1.Clone the repository
-git clone https://github.com/YOUR-USERNAME/bug-tracker.git
-
-2.Move into the project folder
-cd bug-tracker
-
-3.Install dependencies
-npm install
-
-4.Start the app
-npm start
-
----
+1. Clone the repository
+   git clone https://github.com/Janiday15/bug-tracker.git
+2. Move into the project folder
+   cd bug-tracker
+3. Install dependencies
+   npm install
+4. Start the app
+   npm start
 
 ## Screenshots
 
-Add Bug Form  
-<img width="1440" height="740" alt="HomeScreen2" src="https://github.com/user-attachments/assets/968b2519-bd78-48b0-844a-b6e1432cb1bc" />
+Add Bug Form
+<img width="1440" height="740" alt="HomeScreen2" src="https://github.com/user-attachments/assets/be3fcd62-d975-4d9b-ac03-92ef4685e953" />
 
-Bug List 
-<img width="1433" height="746" alt="Screenshot 2025-08-15 at 10 35 27 AM" src="https://github.com/user-attachments/assets/f6537ecc-d693-46ff-9f11-6ae77d4c6b75" />
-
-
+Bug List
+<img width="1433" height="746" alt="Screenshot 2025-08-15 at 10 35 27 AM" src="https://github.com/user-attachments/assets/a96f1e34-5216-481d-9c1f-238b2c931d51" />
